@@ -1,0 +1,82 @@
+[
+    {
+        "tipo": "maglietta",
+        "nome": "Basic Tee",
+        "prezzo_base": 15.0,
+        "taglia": "M",
+        "colore": "Bianco",
+        "stampa": ""
+    },
+    {
+        "tipo": "maglietta",
+        "nome": "Street Logo",
+        "prezzo_base": 25.0,
+        "taglia": "L",
+        "colore": "Nero",
+        "stampa": "PYTHON-OOP"
+    },
+    {
+        "tipo": "felpa",
+        "nome": "Hoodie Urban",
+        "prezzo_base": 45.0,
+        "taglia": "L",
+        "colore": "Grigio",
+        "cappuccio": true
+    },
+    {
+        "tipo": "felpa",
+        "nome": "Light Crew",
+        "prezzo_base": 35.0,
+        "taglia": "M",
+        "colore": "Blu",
+        "cappuccio": false
+    },
+    {
+        "tipo": "pantalone",
+        "nome": "Cargo Tech",
+        "prezzo_base": 55.0,
+        "taglia": "42",
+        "colore": "Verde",
+        "fit": "cargo"
+    },
+    {
+        "tipo": "pantalone",
+        "nome": "Slim Chino",
+        "prezzo_base": 49.0,
+        "taglia": "44",
+        "colore": "Beige",
+        "fit": "slim"
+    },
+    {
+        "tipo": "sneakers",
+        "nome": "Cloud Runner",
+        "prezzo_base": 90.0,
+        "numero": 42,
+        "colore": "Bianco",
+        "edizione_limitata": false
+    },
+    {
+        "tipo": "sneakers",
+        "nome": "Limited Fire",
+        "prezzo_base": 120.0,
+        "numero": 44,
+        "colore": "Rosso/Nero",
+        "edizione_limitata": true
+    },
+    {
+        "nome": "Resident Evil Edizione Limitata",
+        "prezzo_base": 80.0,
+        "colore": "Nero",
+        "tipo": "maglietta",
+        "taglia": "XL",
+        "stampa": ""
+    },
+    {
+        "nome": "Silent Hill Edizione Limitata",
+        "prezzo_base": 90.0,
+        "colore": "Nero",
+        "tipo": "maglietta",
+        "taglia": "XL",
+        "stampa": "James Tormentato"
+    }
+]

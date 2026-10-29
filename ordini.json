@@ -1,0 +1,97 @@
+[
+    {
+        "cliente": "Pietro321",
+        "capi": [
+            {
+                "nome": "Basic Tee",
+                "categoria": "top",
+                "taglia": "M",
+                "colore": "Bianco",
+                "prezzo": 15.0
+            },
+            {
+                "nome": "Slim Chino",
+                "categoria": "bottom",
+                "taglia": "44",
+                "colore": "Beige",
+                "prezzo": 49.0
+            },
+            {
+                "nome": "Cloud Runner",
+                "categoria": "scarpe",
+                "taglia": "42",
+                "colore": "Bianco",
+                "prezzo": 90.0
+            }
+        ],
+        "sconto": 15.4,
+        "totale": 138.6,
+        "numero": 1
+    },
+    {
+        "cliente": "Giulio",
+        "capi": [
+            {
+                "nome": "Street Logo",
+                "categoria": "top",
+                "taglia": "L",
+                "colore": "Nero",
+                "prezzo": 30.0
+            },
+            {
+                "nome": "Limited Fire",
+                "categoria": "scarpe",
+                "taglia": "44",
+                "colore": "Rosso/Nero",
+                "prezzo": 180.0
+            }
+        ],
+        "sconto": 0,
+        "totale": 210.0,
+        "numero": 2
+    },
+    {
+        "cliente": "Marco876",
+        "capi": [
+            {
+                "nome": "Light Crew",
+                "categoria": "top",
+                "taglia": "M",
+                "colore": "Blu",
+                "prezzo": 35.0
+            },
+            {
+                "nome": "Slim Chino",
+                "categoria": "bottom",
+                "taglia": "44",
+                "colore": "Beige",
+                "prezzo": 49.0
+            }
+        ],
+        "sconto": 0,
+        "totale": 84.0,
+        "numero": 3
+    },
+    {
+        "cliente": "Casper",
+        "capi": [
+            {
+                "nome": "Hoodie Urban",
+                "categoria": "top",
+                "taglia": "L",
+                "colore": "Grigio",
+                "prezzo": 53.0
+            },
+            {
+                "nome": "Cloud Runner",
+                "categoria": "scarpe",
+                "taglia": "42",
+                "colore": "Bianco",
+                "prezzo": 90.0
+            }
+        ],
+        "sconto": 0,
+        "totale": 143.0,
+        "numero": 4
+    }
+]
